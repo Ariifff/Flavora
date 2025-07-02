@@ -16,6 +16,8 @@ Currently, FLAVORA has **two separate Android apps** working together:
 FLAVORA/
  ├── admin-app/     📦 Android project for Admins
  └── user-app/      📦 Android project for Users
+```
+
 📲 User App – Features
 ✅ Clean, modern UI – browse popular categories (Biryani, Momos, Shawarma, etc.)
 🍽️ Item Details – see ingredients, description & price before ordering
