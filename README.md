@@ -33,7 +33,7 @@ FLAVORA/
 📊 Dashboard – track order count & daily sales
 🛠 Firebase Realtime Database integration – updates instantly reflect in user app
 
-##🔧 **Tech Stack:**
+##🔧 **Tech Stack**
 
 Frontend (Android): Kotlin
 
