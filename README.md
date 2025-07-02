@@ -18,7 +18,7 @@ FLAVORA/
  └── user-app/      📦 Android project for Users
 ```
 
-📲 User App – Features
+## 📲 User App – Features
 
 ✅ Clean, modern UI – browse popular categories (Biryani, Momos, Shawarma, etc.)
 
