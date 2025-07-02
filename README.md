@@ -46,11 +46,9 @@ UI/UX: Material Design principles 🎨
 
 ⚙️ Setup & Installation
 Clone the repository:
-
-bash
-Copy
-Edit
+```plaintext
 git clone https://github.com/Ariifff/flavora.git
+```
 Open both admin-app and user-app projects in Android Studio.
 
 Add your Firebase configuration files (google-services.json) to:
