@@ -108,7 +108,7 @@ Restaurant Info: Edit in strings.xml or dynamically load from Firebase
 
 | 🏠 **User Home** | 🛒 **Cart** | 🍗 **Item Details** |
 |:--:|:--:|:--:|
-| [![User Home](screenshots/user_home.png)](screenshots/user_home.png) | [![Cart](screenshots/cart.png)](screenshots/cart.png) | [![Item Details](screenshots/item_details.png)](screenshots/item_details.png) |
+| [![User Home](screenshots/user_home.png)](screenshots/user_home.png) | [![Cart](screenshots/user_cart.png)](screenshots/user_cart.png) | [![Item Details](screenshots/item_details.png)](screenshots/item_details.png) |
 
 | 🛠️ **Admin Dashboard** | 📋 **Manage Menu** |
 |:--:|:--:|
