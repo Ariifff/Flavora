@@ -20,7 +20,7 @@ FLAVORA/
 
 📲 User App – Features
 ✅ Clean, modern UI – browse popular categories (Biryani, Momos, Shawarma, etc.)
-🍽️ Item Details – see ingredients, description & price before ordering
+🍗 Item Details – see ingredients, description & price before ordering
 🛒 Add to Cart & Place Orders – simple, intuitive flow
 📝 Order History – view past orders anytime
 🔒 Sign in with Google or Email/Password
@@ -46,8 +46,11 @@ UI/UX: Material Design principles 🎨
 
 ⚙️ Setup & Installation
 Clone the repository:
-git clone https://github.com/Ariifff/flavora.git
 
+bash
+Copy
+Edit
+git clone https://github.com/Ariifff/flavora.git
 Open both admin-app and user-app projects in Android Studio.
 
 Add your Firebase configuration files (google-services.json) to:
@@ -88,15 +91,12 @@ Branding: Update app icons & splash screens in res/drawable
 
 Restaurant Info: Edit in strings.xml or dynamically load from Firebase
 
-## 📸 Screenshots
+📸 Screenshots
+🏠 User Home	🛒 Cart	🍗 Item Details
 
-| 🏠 **User Home** | 🛒 **Cart** | 🍗 **Item Details** |
-|:--:|:--:|:--:|
-| [![User Home](screenshots/user_home.png)](screenshots/user_home.png) | [![Cart](screenshots/cart.png)](screenshots/cart.png) | [![Item Details](screenshots/item_details.png)](screenshots/item_details.png) |
+🛠️ Admin Dashboard	📋 Manage Menu
 
-| 🛠️ **Admin Dashboard** | 📋 **Manage Menu** |
-|:--:|:--:|
-| [![Admin Dashboard](screenshots/admin_dashboard.png)](screenshots/admin_dashboard.png) | [![Manage Menu](screenshots/menu_manage.png)](screenshots/menu_manage.png) |
+⚡ Smooth, elegant, and built to grow — from one restaurant today to many tomorrow!
 
 ❤️ Why FLAVORA?
 Focused & lightweight – ideal for single restaurants & cloud kitchens
