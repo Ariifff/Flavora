@@ -106,9 +106,13 @@ Restaurant Info: Edit in strings.xml or dynamically load from Firebase
 
 ## 📸 Screenshots
 
-🏠 User Home	🛒 Cart	🍗 Item Details
+| 🏠 **User Home** | 🛒 **Cart** | 🍗 **Item Details** |
+|:--:|:--:|:--:|
+| [![User Home](screenshots/user_home.png)](screenshots/user_home.png) | [![Cart](screenshots/cart.png)](screenshots/cart.png) | [![Item Details](screenshots/item_details.png)](screenshots/item_details.png) |
 
-🛠️ Admin Dashboard	📋 Manage Menu
+| 🛠️ **Admin Dashboard** | 📋 **Manage Menu** |
+|:--:|:--:|
+| [![Admin Dashboard](screenshots/admin_dashboard.png)](screenshots/admin_dashboard.png) | [![Manage Menu](screenshots/menu_manage.png)](screenshots/menu_manage.png) |
 
 ⚡ Smooth, elegant, and built to grow — from one restaurant today to many tomorrow!
 
