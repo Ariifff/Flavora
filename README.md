@@ -1,31 +1,35 @@
-![WhatsApp Image 2025-07-02 at 23 26 56_a303439b](https://github.com/user-attachments/assets/dc57b84f-17fc-43d8-8536-531b914b72ca)🍽️✨ FLAVORA – Smart & Scalable Food Delivery App
-Welcome to FLAVORA, a modern food delivery solution crafted specially for a single restaurant — but built with scalability in mind to power many more in the future! 🚀
-Currently, FLAVORA has two apps working together:
+# 🍽️✨ **FLAVORA** – Smart & Scalable Food Delivery App
 
-📱 User App – for customers to order food
+Welcome to **FLAVORA**, a modern food delivery solution crafted specially for a **single restaurant** today — but built with scalability in mind to power many more in the future! 🚀  
+FLAVORA is designed with simplicity, speed, and real-world usability at its core, making it the perfect choice for single restaurants, cloud kitchens, and beyond. 🌱🍔
 
-🛠️ Admin App – for restaurant staff to manage menu & orders
+Currently, FLAVORA has **two separate Android apps** working together:
 
-Built with simplicity, speed, and future growth in mind! 🌱🍔
+- 📱 **User App** – for customers to browse menu, view item details & place orders  
+- 🛠️ **Admin App** – for restaurant staff to manage the menu & track incoming orders
 
-📦 Project Structure
+---
+
+## 📦 **Project Structure**
+
+```plaintext
 FLAVORA/
- ├── admin-app/    📦 Android project for Admins
- └── user-app/     📦 Android project for Users
+ ├── admin-app/     📦 Android project for Admins
+ └── user-app/      📦 Android project for Users
 📲 User App – Features
-✅ Clean, modern UI – Browse delicious dishes by categories (Biryani, Momos, Shawarma, etc.)
-🍽️ Add to Cart & Place Orders – Quick, intuitive ordering flow
-📦 Live Order Tracking – Track your order’s status in real-time
-📝 Order History – View past orders anytime
-🔒 Authentication – Sign in with Google or Email/Password
-💵 Cash on Delivery – No payment gateway yet; built for offline payment
-🌱 Scalable Design – Ready to support multiple restaurants in future
+✅ Clean, modern UI – browse popular categories (Biryani, Momos, Shawarma, etc.)
+🍽️ Item Details – see ingredients, description & price before ordering
+🛒 Add to Cart & Place Orders – simple, intuitive flow
+📝 Order History – view past orders anytime
+🔒 Sign in with Google or Email/Password
+💵 Cash on Delivery – no payment gateway yet; designed for offline payment
+🌱 Built to scale – architecture ready for multi-restaurant support in the future
 
 🛠️ Admin App – Features
-📋 Add / Edit / Remove Menu Items – Manage menu dynamically
-🚚 Manage Orders – View incoming orders, update status (Preparing, Ready, Delivered, etc.)
-📊 Dashboard – See number of orders & sales data
-🛠 Firebase Integration – Realtime updates across user & admin apps
+📋 Add / Edit / Remove menu items dynamically
+🚚 Manage Orders – view new orders & update status (e.g., Preparing, Ready, Delivered)
+📊 Dashboard – track order count & daily sales
+🛠 Firebase Realtime Database integration – updates instantly reflect in user app
 
 🔧 Tech Stack
 Frontend (Android): Kotlin
@@ -34,16 +38,21 @@ Backend: Firebase Realtime Database & Cloud Storage
 
 Auth: Firebase Authentication (Google & Email/Password)
 
-Push Notifications: Firebase Cloud Messaging (planned)
+Push Notifications: Planned (using Firebase Cloud Messaging)
 
-Design: Material Design principles 🎨
+UI/UX: Material Design principles 🎨
 
 ⚙️ Setup & Installation
 Clone the repository:
 git clone https://github.com/Ariifff/flavora.git
+
 Open both admin-app and user-app projects in Android Studio.
 
-Add your Firebase configuration files (google-services.json) to both apps.
+Add your Firebase configuration files (google-services.json) to:
+
+admin-app/app/
+
+user-app/app/
 
 Enable Firebase Authentication, Realtime Database & Storage in the Firebase console.
 
@@ -52,56 +61,59 @@ Build & run! 🚀
 🌱 Current Scope & Future Roadmap
 ✅ Now:
 
-Single restaurant
+Single restaurant support
 
 Cash on Delivery only
 
-Basic order management & tracking
+Basic order management & dynamic menu
 
-🔮 Planned / Future:
+🔮 Planned:
 
 Payment gateway integration (UPI, cards, wallets)
 
-Support for multiple restaurants & outlets
+Support for multiple restaurants/outlets
 
-Loyalty programs, coupons, and promotions
+Loyalty programs, coupons, & promotions
 
-AI-based food recommendations
+AI-powered dish recommendations
 
-Cloud kitchens & franchise support
+Cloud kitchen & franchise support
 
 ✏️ Customization Guide
-Menu Items: Change directly in Firebase Database (admin app makes this easier)
+Menu Items: Change in Firebase Realtime Database or via admin app
 
-Branding: Update logo, splash screens & colors in res/drawable and res/values
+Branding: Update app icons & splash screens in res/drawable
 
-Restaurant Info: Edit strings in strings.xml or Firebase
+Restaurant Info: Edit in strings.xml or dynamically load from Firebase
 
 ## 📸 Screenshots
 
-| 🏠 User Home | 🛒 Cart | 🍗 Item Details | 🛠️ Admin Dashboard | 📋 Manage Menu |
-|:--:|:--:|:--:|:--:|:--:|
-| ![](screenshots/user_home.png) | ![](screenshots/user_cart.png) | ![](screenshots/item_details.png) | ![](screenshots/admin_dashboard.png) | ![](screenshots/menu_manage.png) |
+| 🏠 **User Home** | 🛒 **Cart** | 🍗 **Item Details** |
+|:--:|:--:|:--:|
+| [![User Home](screenshots/user_home.png)](screenshots/user_home.png) | [![Cart](screenshots/cart.png)](screenshots/cart.png) | [![Item Details](screenshots/item_details.png)](screenshots/item_details.png) |
 
+| 🛠️ **Admin Dashboard** | 📋 **Manage Menu** |
+|:--:|:--:|
+| [![Admin Dashboard](screenshots/admin_dashboard.png)](screenshots/admin_dashboard.png) | [![Manage Menu](screenshots/menu_manage.png)](screenshots/menu_manage.png) |
 
 ❤️ Why FLAVORA?
-Focused & lightweight – perfect for single restaurants and cloud kitchens
+Focused & lightweight – ideal for single restaurants & cloud kitchens
 
-Designed to scale seamlessly in the future
+Designed to scale easily in the future
 
-Modern UI/UX for better customer experience
+Modern, clean UI/UX for customers
 
-Powerful admin tools for restaurant owners
+Reliable admin tools for staff & owners
 
-Built using reliable & flexible Firebase backend
+Built on trusted & flexible Firebase backend
 
 🤝 Contributing
 Have ideas to make FLAVORA even better?
-Feel free to fork, open issues, or create pull requests! Contributions are welcome! 🌟
+Feel free to fork, open issues, or submit pull requests – contributions are always welcome! 🌟
 
 📧 Contact
 📩 Email: arifrainee1@gmail.com
 📍 Made with ❤️ by Arif
 
-⚡ FLAVORA – From one kitchen today to many tomorrow.
-Taste meets technology! 🍲🚀
+⚡ FLAVORA – Taste meets technology.
+From one kitchen today to many tomorrow! 🍲🚀
