@@ -34,7 +34,7 @@ FLAVORA/
 
 🌱 Built to scale – architecture ready for multi-restaurant support in the future
 
-🛠️ Admin App – Features
+## 🛠️ Admin App – Features
 
 📋 Add / Edit / Remove menu items dynamically
 
@@ -57,7 +57,8 @@ Push Notifications: Planned (using Firebase Cloud Messaging)
 
 UI/UX: Material Design principles 🎨
 
-⚙️ Setup & Installation
+## ⚙️ Setup & Installation
+
 Clone the repository:
 ```plaintext
 git clone https://github.com/Ariifff/flavora.git
@@ -74,7 +75,7 @@ Enable Firebase Authentication, Realtime Database & Storage in the Firebase cons
 
 Build & run! 🚀
 
-🌱 Current Scope & Future Roadmap
+## 🌱 Current Scope & Future Roadmap
 ✅ Now:
 
 Single restaurant support
@@ -95,14 +96,16 @@ AI-powered dish recommendations
 
 Cloud kitchen & franchise support
 
-✏️ Customization Guide
+## ✏️ Customization Guide
+
 Menu Items: Change in Firebase Realtime Database or via admin app
 
 Branding: Update app icons & splash screens in res/drawable
 
 Restaurant Info: Edit in strings.xml or dynamically load from Firebase
 
-📸 Screenshots
+## 📸 Screenshots
+
 🏠 User Home	🛒 Cart	🍗 Item Details
 
 🛠️ Admin Dashboard	📋 Manage Menu
@@ -120,12 +123,15 @@ Reliable admin tools for staff & owners
 
 Built on trusted & flexible Firebase backend
 
-🤝 Contributing
+## 🤝 Contributing
+
 Have ideas to make FLAVORA even better?
 Feel free to fork, open issues, or submit pull requests – contributions are always welcome! 🌟
 
 📧 Contact
+
 📩 Email: arifrainee1@gmail.com
+
 📍 Made with ❤️ by Arif
 
 ⚡ FLAVORA – Taste meets technology.
