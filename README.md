@@ -19,19 +19,31 @@ FLAVORA/
 ```
 
 📲 User App – Features
+
 ✅ Clean, modern UI – browse popular categories (Biryani, Momos, Shawarma, etc.)
+
 🍗 Item Details – see ingredients, description & price before ordering
+
 🛒 Add to Cart & Place Orders – simple, intuitive flow
+
 📝 Order History – view past orders anytime
+
 🔒 Sign in with Google or Email/Password
+
 💵 Cash on Delivery – no payment gateway yet; designed for offline payment
+
 🌱 Built to scale – architecture ready for multi-restaurant support in the future
 
 🛠️ Admin App – Features
+
 📋 Add / Edit / Remove menu items dynamically
+
 🚚 Manage Orders – view new orders & update status (e.g., Preparing, Ready, Delivered)
+
 📊 Dashboard – track order count & daily sales
+
 🛠 Firebase Realtime Database integration – updates instantly reflect in user app
+
 
 ## 🔧**Tech Stack**
 
