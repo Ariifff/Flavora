@@ -33,15 +33,11 @@ FLAVORA/
 📊 Dashboard – track order count & daily sales
 🛠 Firebase Realtime Database integration – updates instantly reflect in user app
 
-🔧 Tech Stack
+🔧 Tech Stack:
 Frontend (Android): Kotlin
-
 Backend: Firebase Realtime Database & Cloud Storage
-
 Auth: Firebase Authentication (Google & Email/Password)
-
 Push Notifications: Planned (using Firebase Cloud Messaging)
-
 UI/UX: Material Design principles 🎨
 
 ⚙️ Setup & Installation
